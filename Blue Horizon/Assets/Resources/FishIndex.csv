@@ -1,0 +1,148 @@
+name,biome,rarity,image,isCaught
+Salmon,Normal,Common,salmon,FALSE
+Brown Trout,Normal,Common,brownTrout,FALSE
+Bleak,Normal,Common,bleak,FALSE
+Cod,Normal,Common,cod,FALSE
+Char,Normal,Common,char,FALSE
+Dace,Normal,Common,dace,FALSE
+Grayling,Normal,Common,grayling,FALSE
+Mackerel,Normal,Common,mackerel,FALSE
+Sweetfish,Normal,Common,sweetfish,FALSE
+Bitterling,Normal,Common,bitterling,FALSE
+Gwyniad,Normal,Uncommon,gwyniad,FALSE
+Loach,Normal,Uncommon,loach,FALSE
+Pike,Normal,Uncommon,pike,FALSE
+Pouting,Normal,Uncommon,pouting,FALSE
+Brook Lamprey,Normal,Uncommon,brookLamprey,FALSE
+Bootfish...?,Normal,Rare,boot,FALSE
+Minnow,Normal,Rare,minnow,FALSE
+Pale Chub,Normal,Rare,paleChub,FALSE
+Brill,Normal,Endangered,brill,FALSE
+Three Spined Stickleback,Normal,Endangered,threeSpinkedStickleback,FALSE
+Coelacanth,Normal,Undiscovered,coelacanth,FALSE
+Icicle Fish,Tundra,Common,icicleFish,FALSE
+Icehopper,Tundra,Common,icehopper,FALSE
+Knitted-Up Fish,Tundra,Common,hatFish,FALSE
+Forest Fish,Tundra,Common,forestFish,FALSE
+Snowflake Fish,Tundra,Common,flakeFIsh,FALSE
+Ice Fish,Tundra,Common,basicFish,FALSE
+Albacore,Tundra,Common,albacore,FALSE
+Aurora Fish,Tundra,Common,auroraFish,FALSE
+Glitter Fish,Tundra,Common,glitterFish,FALSE
+Snow Fish,Tundra,Common,snowFish,FALSE
+Yeti Fish,Tundra,Uncommon,yetiFish,FALSE
+Tundra Carp,Tundra,Uncommon,tundraCarp,FALSE
+Tundra Bass,Tundra,Uncommon,tundraBass,FALSE
+Icejack,Tundra,Uncommon,icejack,FALSE
+Narwhal,Tundra,Uncommon,Narwhal,FALSE
+Frozen Fish,Tundra,Rare,frozenFish,FALSE
+Blue Marlin,Tundra,Rare,blueMarlin,FALSE
+Ice Cream Squid,Tundra,Rare,iceCreamSquid,FALSE
+Icecube Snail,Tundra,Endangered,iceseaSnail,FALSE
+Iceberg Fish,Tundra,Endangered,iceBergFish,FALSE
+Penguin,Tundra,Undiscovered,penguin,FALSE
+Cracked Fish,Mountainous,Common,basicMountainFis,FALSE
+Coarse Fish,Mountainous,Common,basicRockFish,FALSE
+Just A Rock,Mountainous,Common,literalRock,FALSE
+Magma Fish,Mountainous,Common,magmaFish,FALSE
+Mountain Shark,Mountainous,Common,mountainShark,FALSE
+Whitefish,Mountainous,Common,mountainWhitefish,FALSE
+Stergeon,Mountainous,Common,stergeon,FALSE
+Cobblefish,Mountainous,Common,stoneFish,FALSE
+White Cloud,Mountainous,Common,whiteCloudMountainMinnow,FALSE
+Chalk Fish,Mountainous,Common,chalkFish,FALSE
+Mountback Turtle,Mountainous,Uncommon,mountbackTurtle,FALSE
+Geode Fish,Mountainous,Uncommon,geodeFish,FALSE
+Quartz Fish,Mountainous,Uncommon,sparkleFish,FALSE
+Rocky Eel,Mountainous,Uncommon,eelRockFish,FALSE
+Rock Squid,Mountainous,Uncommon,rockSquid,FALSE
+Twin Fin Peaks,Mountainous,Rare,twinFins,FALSE
+Pebble,Mountainous,Rare,pebble,FALSE
+Mountain-Goat Fish,Mountainous,Rare,mountainGoatFish,FALSE
+Stoad,Mountainous,Endangered,stoad,FALSE
+Fossil Fish,Mountainous,Endangered,fossil,FALSE
+3-Headed Sea Serpent,Mountainous,Undiscovered,3HeadedSeaSerpent,FALSE
+Bluegill,Swamp,Common,bluegill,FALSE
+Vine Fish,Swamp,Common,vineFIsh,FALSE
+Swamp Darter,Swamp,Common,swampDarter,FALSE
+Swamp Barb,Swamp,Common,swampBarb,FALSE
+Mudskipper,Swamp,Common,mudskipper,FALSE
+Mossback,Swamp,Common,mossbackFish,FALSE
+Longear Sunfish,Swamp,Common,longearSunfish,FALSE
+Chain Pickerel,Swamp,Common,chainPickerel,FALSE
+Asian Swamp Eel,Swamp,Common,asianSwampEel,FALSE
+Hoplosternum,Swamp,Common,Hoplosternum,FALSE
+Leech,Swamp,Uncommon,leech,FALSE
+Piranha,Swamp,Uncommon,piranha,FALSE
+Nothing...?,Swamp,Uncommon,camouflageFish,FALSE
+Longnose,Swamp,Uncommon,longnoseGar,FALSE
+Anaconda,Swamp,Uncommon,anaconda,FALSE
+Mudback Turtle,Swamp,Rare,mudbackTurtle,FALSE
+Diet Fish,Swamp,Rare,deadFish,FALSE
+Toad,Swamp,Rare,toad,FALSE
+Swampster,Swamp,Endangered,swampster,FALSE
+Alligator,Swamp,Endangered,alligator,FALSE
+Creature of the Swamp,Swamp,Undiscovered,creatureOfTheSwamp,FALSE
+Tuna,Shallow,Common,tuna,FALSE
+Butterfly Fish,Shallow,Common,butterfly fish,FALSE
+Turtle,Shallow,Common,turtle,FALSE
+Discus Fish,Shallow,Common,discus fish,FALSE
+Pink Damsel,Shallow,Common,pinkDamsel,FALSE
+Pupfish,Shallow,Common,pupfish,FALSE
+Red Tiger Barb,Shallow,Common,redTigerBarb,FALSE
+Queen Angelfish,Shallow,Common,queenAngelfish,FALSE
+Telescope Goldfish,Shallow,Common,telescope goldfish,FALSE
+Lyretail Anthias,Shallow,Common,Lyretail Anthias,FALSE
+Guppy,Shallow,Uncommon,guppy,FALSE
+Fighting Betta,Shallow,Uncommon,fightingBetta,FALSE
+Crab,Shallow,Uncommon,crab,FALSE
+Crawfish,Shallow,Uncommon,crawfish,FALSE
+Seahorse,Shallow,Uncommon,seahorse,FALSE
+Moorish Idol,Shallow,Rare,moorishIdol,FALSE
+Clownfish,Shallow,Rare,clownfish,FALSE
+Blue Tang,Shallow,Rare,blue tang,FALSE
+Neon Tetra,Shallow,Endangered,neon tetra,FALSE
+Birthday Fish,Shallow,Endangered,pufferfish,FALSE
+Earth Ray,Shallow,Undiscovered,earthray,FALSE
+Galaxy Fish,Twilight,Common,galaxyFish,FALSE
+Misty Fish,Twilight,Common,Misty Fish,FALSE
+Night-Sky Fish,Twilight,Common,purpleSkyFish,FALSE
+Spotted Eel,Twilight,Common,SpottedEel,FALSE
+Supernova Blob Fish,Twilight,Common,SupernovaBlobfish,FALSE
+Terrestrial Fish,Twilight,Common,NotAnAlien,FALSE
+Moon Relfective Fish,Twilight,Common,MoonlightReflectionFIsh,FALSE
+Star-Bellied Whale,Twilight,Common,StarBelliedWhale,FALSE
+Angler Fish,Twilight,Common,anglerFish,FALSE
+Sleepy Starfish,Twilight,Common,sleepyStarfish,FALSE
+Ghost Fish,Twilight,Uncommon,ghostFish,FALSE
+Spotted Hermit Crab,Twilight,Uncommon,SpottedHermitCrab,FALSE
+Catfish,Twilight,Uncommon,catfish,FALSE
+Crescent Shark,Twilight,Uncommon,CrescentShark,FALSE
+Jellyfish,Twilight,Uncommon,jellyfish,FALSE
+Moon Fish,Twilight,Rare,moonFish,FALSE
+Meteor Fish,Twilight,Rare,MeteorFish,FALSE
+Jupiter Fish,Twilight,Rare,JupiterFish,FALSE
+One Small Step...,Twilight,Endangered,NasaBoot,FALSE
+Moon Clam,Twilight,Endangered,moonClam,FALSE
+Kraken,Twilight,Undiscovered,kraken,FALSE
+Sun Shark,Sunset,Common,sunShark,FALSE
+Dorado,Sunset,Common,dorado,FALSE
+Sun-Spotted Fish,Sunset,Common,sunSpottedFish,FALSE
+Sunflower Fish,Sunset,Common,sunflowerFish,FALSE
+Ruby Fish,Sunset,Common,rubyFish,FALSE
+Royal Fish,Sunset,Common,royalFish,FALSE
+Grill Fish,Sunset,Common,fireFish,FALSE
+Devil Fish,Sunset,Common,devilFish,FALSE
+Arowana,Sunset,Common,arowana,FALSE
+Lava Fish,Sunset,Common,lavaFish,FALSE
+Koi,Sunset,Uncommon,koi,FALSE
+Oarfish,Sunset,Uncommon,oarfish,FALSE
+Gold-Fish,Sunset,Uncommon,goldFish,FALSE
+Sea Butterfly,Sunset,Uncommon,seaButterfly,FALSE
+Rainbow Trout,Sunset,Uncommon,rainbowTrout,FALSE
+Sunset Fish,Sunset,Rare,sunsetFish,FALSE
+Shadow Fish,Sunset,Rare,shadowFish,FALSE
+Sunray,Sunset,Rare,sunRayStringray,FALSE
+Sun Clam,Sunset,Endangered,sunClam,FALSE
+Fire Seperent,Sunset,Endangered,fireSerpent,FALSE
+Familiar Fish,Sunset,Undiscovered,familiarFish,FALSE
