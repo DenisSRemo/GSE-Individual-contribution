@@ -9,8 +9,8 @@ public class Lanching_ball : MonoBehaviour
     public GameObject ball;
     public Button Lanch_button;
     public Slider Power;
-    public InputField Angle;
-    public string str;
+    public Slider Angle;
+    public float str;
     public float pr;
     public Rigidbody rb;
    private float xcomponent;
@@ -19,17 +19,17 @@ public class Lanching_ball : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody>();
-        str = Angle.text;
+        str = Angle.value;
         pr = Power.value;
     }
 
     // Update is called once per frame
     void Update()
     {
-        str = Angle.text;
-        pr = Power.value*20;
-        xcomponent = Mathf.Cos(float.Parse(str) * Mathf.PI / 180) * pr;
-         ycomponent = Mathf.Sin(float.Parse(str) * Mathf.PI / 180) * pr;
+        str = Angle.value*360;
+        pr = Power.value*200;
+        xcomponent = Mathf.Cos(str * Mathf.PI / 180) * pr;
+         ycomponent = Mathf.Sin(str * Mathf.PI / 180) * pr;
     }
 
     public void Launch()
